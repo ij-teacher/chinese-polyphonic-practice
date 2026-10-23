@@ -1,0 +1,1021 @@
+{
+  "title": "破音字語境教室",
+  "questions": [
+    {
+      "id": 1,
+      "segments": [
+        {
+          "char": "便",
+          "answer": "biàn"
+        },
+        "利商店的麵包很",
+        {
+          "char": "便",
+          "answer": "pián"
+        },
+        "宜。"
+      ]
+    },
+    {
+      "id": 2,
+      "segments": [
+        "她",
+        {
+          "char": "的",
+          "answer": "de"
+        },
+        "目",
+        {
+          "char": "的",
+          "answer": "dì"
+        },
+        "達到了，",
+        {
+          "char": "的",
+          "answer": "dí"
+        },
+        "確很開心。"
+      ]
+    },
+    {
+      "id": 3,
+      "segments": [
+        "他",
+        {
+          "char": "倒",
+          "answer": "dào"
+        },
+        "車時，一不小心把花盆撞",
+        {
+          "char": "倒",
+          "answer": "dǎo"
+        },
+        "了。"
+      ]
+    },
+    {
+      "id": 4,
+      "segments": [
+        "考",
+        {
+          "char": "得",
+          "answer": "de"
+        },
+        "好不要太",
+        {
+          "char": "得",
+          "answer": "dé"
+        },
+        "意，還是",
+        {
+          "char": "得",
+          "answer": "děi"
+        },
+        "繼續努力。"
+      ]
+    },
+    {
+      "id": 5,
+      "segments": [
+        "台北市和高雄市",
+        {
+          "char": "都",
+          "answer": "dōu"
+        },
+        "是很熱鬧的大",
+        {
+          "char": "都",
+          "answer": "dū"
+        },
+        "市。"
+      ]
+    },
+    {
+      "id": 6,
+      "segments": [
+        "他生氣地回",
+        {
+          "char": "答",
+          "answer": "dá"
+        },
+        "：「我不",
+        {
+          "char": "答",
+          "answer": "dā"
+        },
+        "應！」"
+      ]
+    },
+    {
+      "id": 7,
+      "segments": [
+        "遇到災",
+        {
+          "char": "難",
+          "answer": "nàn"
+        },
+        "時，大家互相幫忙，一起度過困",
+        {
+          "char": "難",
+          "answer": "nán"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 8,
+      "segments": [
+        "我先",
+        {
+          "char": "量",
+          "answer": "liáng"
+        },
+        "一下箱子的容",
+        {
+          "char": "量",
+          "answer": "liàng"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 9,
+      "segments": [
+        "我有",
+        {
+          "char": "空",
+          "answer": "kòng"
+        },
+        "的時候，喜歡抬頭看看天",
+        {
+          "char": "空",
+          "answer": "kōng"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 10,
+      "segments": [
+        "聽音",
+        {
+          "char": "樂",
+          "answer": "yuè"
+        },
+        "讓我很快",
+        {
+          "char": "樂",
+          "answer": "lè"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 11,
+      "segments": [
+        "他是我的",
+        {
+          "char": "好",
+          "answer": "hǎo"
+        },
+        "朋友，對什麼事都很",
+        {
+          "char": "好",
+          "answer": "hào"
+        },
+        "奇。"
+      ]
+    },
+    {
+      "id": 12,
+      "segments": [
+        "這個箱子很",
+        {
+          "char": "重",
+          "answer": "zhòng"
+        },
+        "，我要",
+        {
+          "char": "重",
+          "answer": "chóng"
+        },
+        "新整理。"
+      ]
+    },
+    {
+      "id": 13,
+      "segments": [
+        "這本書你",
+        {
+          "char": "還",
+          "answer": "hái"
+        },
+        "沒拿去",
+        {
+          "char": "還",
+          "answer": "huán"
+        },
+        "嗎？"
+      ]
+    },
+    {
+      "id": 14,
+      "segments": [
+        {
+          "char": "會",
+          "answer": "kuài"
+        },
+        "計師正在開",
+        {
+          "char": "會",
+          "answer": "huì"
+        },
+        "，請您等一",
+        {
+          "char": "會",
+          "answer": "huì"
+        },
+        "兒。"
+      ]
+    },
+    {
+      "id": 15,
+      "segments": [
+        "我們",
+        {
+          "char": "幾",
+          "answer": "jǐ"
+        },
+        "個人邊走邊聊，",
+        {
+          "char": "幾",
+          "answer": "jī"
+        },
+        "乎沒趕上車。"
+      ]
+    },
+    {
+      "id": 16,
+      "segments": [
+        "她是一位",
+        {
+          "char": "教",
+          "answer": "jiāo"
+        },
+        "物理的",
+        {
+          "char": "教",
+          "answer": "jiào"
+        },
+        "授。"
+      ]
+    },
+    {
+      "id": 17,
+      "segments": [
+        "我",
+        {
+          "char": "覺",
+          "answer": "jué"
+        },
+        "得很累，想睡",
+        {
+          "char": "覺",
+          "answer": "jiào"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 18,
+      "segments": [
+        "他說的是",
+        {
+          "char": "假",
+          "answer": "jiǎ"
+        },
+        "話，其實他根本沒有請",
+        {
+          "char": "假",
+          "answer": "jià"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 19,
+      "segments": [
+        "真",
+        {
+          "char": "奇",
+          "answer": "qí"
+        },
+        "怪！這一組座位的號碼全是",
+        {
+          "char": "奇",
+          "answer": "jī"
+        },
+        "數。"
+      ]
+    },
+    {
+      "id": 20,
+      "segments": [
+        "我",
+        {
+          "char": "相",
+          "answer": "xiāng"
+        },
+        "信她本人比",
+        {
+          "char": "相",
+          "answer": "xiàng"
+        },
+        "片更好看。"
+      ]
+    },
+    {
+      "id": 21,
+      "segments": [
+        "他在這一",
+        {
+          "char": "行",
+          "answer": "háng"
+        },
+        "也很有經驗，大家都說他真",
+        {
+          "char": "行",
+          "answer": "xíng"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 22,
+      "segments": [
+        "老闆看到生意",
+        {
+          "char": "興",
+          "answer": "xīng"
+        },
+        "隆，高",
+        {
+          "char": "興",
+          "answer": "xìng"
+        },
+        "得合不攏嘴。"
+      ]
+    },
+    {
+      "id": 23,
+      "segments": [
+        "她",
+        {
+          "char": "長",
+          "answer": "zhǎng"
+        },
+        "大了，頭髮也留",
+        {
+          "char": "長",
+          "answer": "cháng"
+        },
+        "了。"
+      ]
+    },
+    {
+      "id": 24,
+      "segments": [
+        "這筆生意很",
+        {
+          "char": "重",
+          "answer": "zhòng"
+        },
+        "要，請你",
+        {
+          "char": "重",
+          "answer": "chóng"
+        },
+        "新計算一下。"
+      ]
+    },
+    {
+      "id": 25,
+      "segments": [
+        "他考",
+        {
+          "char": "中",
+          "answer": "zhòng"
+        },
+        "了那所有名的高",
+        {
+          "char": "中",
+          "answer": "zhōng"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 26,
+      "segments": [
+        "他要去教務",
+        {
+          "char": "處",
+          "answer": "chù"
+        },
+        {
+          "char": "處",
+          "answer": "chǔ"
+        },
+        "理公務。"
+      ]
+    },
+    {
+      "id": 27,
+      "segments": [
+        "請你",
+        {
+          "char": "數",
+          "answer": "shǔ"
+        },
+        "一",
+        {
+          "char": "數",
+          "answer": "shǔ"
+        },
+        "參加的人",
+        {
+          "char": "數",
+          "answer": "shù"
+        },
+        "。"
+      ]
+    },
+    {
+      "id": 28,
+      "segments": [
+        "老師在",
+        {
+          "char": "教",
+          "answer": "jiào"
+        },
+        "室裡",
+        {
+          "char": "教",
+          "answer": "jiāo"
+        },
+        "中文。"
+      ]
+    },
+    {
+      "id": 29,
+      "segments": [
+        "答",
+        {
+          "char": "應",
+          "answer": "yìng"
+        },
+        "別人的事，就",
+        {
+          "char": "應",
+          "answer": "yīng"
+        },
+        "該做到。"
+      ]
+    },
+    {
+      "id": 30,
+      "segments": [
+        "請拿",
+        {
+          "char": "掃",
+          "answer": "sào"
+        },
+        "把來，把地",
+        {
+          "char": "掃",
+          "answer": "sǎo"
+        },
+        "一",
+        {
+          "char": "掃",
+          "answer": "sǎo"
+        },
+        "。"
+      ]
+    }
+  ],
+  "readings": {
+    "便": [
+      {
+        "pinyin": "biàn",
+        "zhuyin": "ㄅㄧㄢˋ",
+        "example": "方便、便利商店",
+        "meaning": "方便、便利"
+      },
+      {
+        "pinyin": "pián",
+        "zhuyin": "ㄆㄧㄢˊ",
+        "example": "便宜",
+        "meaning": "價格低"
+      }
+    ],
+    "的": [
+      {
+        "pinyin": "de",
+        "zhuyin": "˙ㄉㄜ",
+        "example": "我的書",
+        "meaning": "連接修飾語"
+      },
+      {
+        "pinyin": "dì",
+        "zhuyin": "ㄉㄧˋ",
+        "example": "目的",
+        "meaning": "目標"
+      },
+      {
+        "pinyin": "dí",
+        "zhuyin": "ㄉㄧˊ",
+        "example": "的確",
+        "meaning": "確實"
+      }
+    ],
+    "倒": [
+      {
+        "pinyin": "dào",
+        "zhuyin": "ㄉㄠˋ",
+        "example": "倒車",
+        "meaning": "向後移動"
+      },
+      {
+        "pinyin": "dǎo",
+        "zhuyin": "ㄉㄠˇ",
+        "example": "倒下、撞倒",
+        "meaning": "失去直立狀態"
+      }
+    ],
+    "得": [
+      {
+        "pinyin": "de",
+        "zhuyin": "˙ㄉㄜ",
+        "example": "考得好",
+        "meaning": "引出動作的結果或程度"
+      },
+      {
+        "pinyin": "dé",
+        "zhuyin": "ㄉㄜˊ",
+        "example": "得意、得到",
+        "meaning": "得意或獲得"
+      },
+      {
+        "pinyin": "děi",
+        "zhuyin": "ㄉㄟˇ",
+        "example": "得努力",
+        "meaning": "必須"
+      }
+    ],
+    "都": [
+      {
+        "pinyin": "dōu",
+        "zhuyin": "ㄉㄡ",
+        "example": "都是",
+        "meaning": "全部"
+      },
+      {
+        "pinyin": "dū",
+        "zhuyin": "ㄉㄨ",
+        "example": "都市、首都",
+        "meaning": "城市"
+      }
+    ],
+    "答": [
+      {
+        "pinyin": "dá",
+        "zhuyin": "ㄉㄚˊ",
+        "example": "回答",
+        "meaning": "回覆問題"
+      },
+      {
+        "pinyin": "dā",
+        "zhuyin": "ㄉㄚ",
+        "example": "答應",
+        "meaning": "同意"
+      }
+    ],
+    "難": [
+      {
+        "pinyin": "nàn",
+        "zhuyin": "ㄋㄢˋ",
+        "example": "災難",
+        "meaning": "災禍"
+      },
+      {
+        "pinyin": "nán",
+        "zhuyin": "ㄋㄢˊ",
+        "example": "困難",
+        "meaning": "不容易"
+      }
+    ],
+    "量": [
+      {
+        "pinyin": "liáng",
+        "zhuyin": "ㄌㄧㄤˊ",
+        "example": "量尺寸",
+        "meaning": "測量"
+      },
+      {
+        "pinyin": "liàng",
+        "zhuyin": "ㄌㄧㄤˋ",
+        "example": "容量、重量",
+        "meaning": "數量或可容納的大小"
+      }
+    ],
+    "空": [
+      {
+        "pinyin": "kòng",
+        "zhuyin": "ㄎㄨㄥˋ",
+        "example": "有空",
+        "meaning": "有時間"
+      },
+      {
+        "pinyin": "kōng",
+        "zhuyin": "ㄎㄨㄥ",
+        "example": "天空、空氣",
+        "meaning": "天空或空間"
+      }
+    ],
+    "樂": [
+      {
+        "pinyin": "yuè",
+        "zhuyin": "ㄩㄝˋ",
+        "example": "音樂",
+        "meaning": "聲音的藝術"
+      },
+      {
+        "pinyin": "lè",
+        "zhuyin": "ㄌㄜˋ",
+        "example": "快樂",
+        "meaning": "開心"
+      }
+    ],
+    "好": [
+      {
+        "pinyin": "hǎo",
+        "zhuyin": "ㄏㄠˇ",
+        "example": "好朋友",
+        "meaning": "良好、親近"
+      },
+      {
+        "pinyin": "hào",
+        "zhuyin": "ㄏㄠˋ",
+        "example": "好奇",
+        "meaning": "喜愛、想知道"
+      }
+    ],
+    "重": [
+      {
+        "pinyin": "zhòng",
+        "zhuyin": "ㄓㄨㄥˋ",
+        "example": "很重、重要",
+        "meaning": "重量大或要緊"
+      },
+      {
+        "pinyin": "chóng",
+        "zhuyin": "ㄔㄨㄥˊ",
+        "example": "重新",
+        "meaning": "再一次"
+      }
+    ],
+    "還": [
+      {
+        "pinyin": "hái",
+        "zhuyin": "ㄏㄞˊ",
+        "example": "還沒",
+        "meaning": "仍然"
+      },
+      {
+        "pinyin": "huán",
+        "zhuyin": "ㄏㄨㄢˊ",
+        "example": "還書",
+        "meaning": "歸還"
+      }
+    ],
+    "會": [
+      {
+        "pinyin": "kuài",
+        "zhuyin": "ㄎㄨㄞˋ",
+        "example": "會計",
+        "meaning": "財務記錄工作"
+      },
+      {
+        "pinyin": "huì",
+        "zhuyin": "ㄏㄨㄟˋ",
+        "example": "開會、一會兒",
+        "meaning": "會議或片刻"
+      }
+    ],
+    "幾": [
+      {
+        "pinyin": "jǐ",
+        "zhuyin": "ㄐㄧˇ",
+        "example": "幾個",
+        "meaning": "詢問或表示不確定的數量"
+      },
+      {
+        "pinyin": "jī",
+        "zhuyin": "ㄐㄧ",
+        "example": "幾乎",
+        "meaning": "差一點"
+      }
+    ],
+    "教": [
+      {
+        "pinyin": "jiāo",
+        "zhuyin": "ㄐㄧㄠ",
+        "example": "教中文",
+        "meaning": "傳授知識或技能"
+      },
+      {
+        "pinyin": "jiào",
+        "zhuyin": "ㄐㄧㄠˋ",
+        "example": "教室、教授",
+        "meaning": "用在教室、教授等詞"
+      }
+    ],
+    "覺": [
+      {
+        "pinyin": "jué",
+        "zhuyin": "ㄐㄩㄝˊ",
+        "example": "覺得",
+        "meaning": "感覺、認為"
+      },
+      {
+        "pinyin": "jiào",
+        "zhuyin": "ㄐㄧㄠˋ",
+        "example": "睡覺",
+        "meaning": "睡眠"
+      }
+    ],
+    "假": [
+      {
+        "pinyin": "jiǎ",
+        "zhuyin": "ㄐㄧㄚˇ",
+        "example": "假話",
+        "meaning": "不真實"
+      },
+      {
+        "pinyin": "jià",
+        "zhuyin": "ㄐㄧㄚˋ",
+        "example": "請假",
+        "meaning": "獲准不上班或不上課"
+      }
+    ],
+    "奇": [
+      {
+        "pinyin": "qí",
+        "zhuyin": "ㄑㄧˊ",
+        "example": "奇怪",
+        "meaning": "不尋常"
+      },
+      {
+        "pinyin": "jī",
+        "zhuyin": "ㄐㄧ",
+        "example": "奇數",
+        "meaning": "不能被二整除的整數"
+      }
+    ],
+    "相": [
+      {
+        "pinyin": "xiāng",
+        "zhuyin": "ㄒㄧㄤ",
+        "example": "相信",
+        "meaning": "信任、認為是真的"
+      },
+      {
+        "pinyin": "xiàng",
+        "zhuyin": "ㄒㄧㄤˋ",
+        "example": "相片",
+        "meaning": "照片"
+      }
+    ],
+    "行": [
+      {
+        "pinyin": "háng",
+        "zhuyin": "ㄏㄤˊ",
+        "example": "這一行",
+        "meaning": "行業"
+      },
+      {
+        "pinyin": "xíng",
+        "zhuyin": "ㄒㄧㄥˊ",
+        "example": "真行",
+        "meaning": "可以、能幹"
+      }
+    ],
+    "興": [
+      {
+        "pinyin": "xīng",
+        "zhuyin": "ㄒㄧㄥ",
+        "example": "興隆",
+        "meaning": "興盛"
+      },
+      {
+        "pinyin": "xìng",
+        "zhuyin": "ㄒㄧㄥˋ",
+        "example": "高興",
+        "meaning": "開心的情緒"
+      }
+    ],
+    "長": [
+      {
+        "pinyin": "zhǎng",
+        "zhuyin": "ㄓㄤˇ",
+        "example": "長大",
+        "meaning": "成長"
+      },
+      {
+        "pinyin": "cháng",
+        "zhuyin": "ㄔㄤˊ",
+        "example": "留長",
+        "meaning": "長度增加"
+      }
+    ],
+    "中": [
+      {
+        "pinyin": "zhòng",
+        "zhuyin": "ㄓㄨㄥˋ",
+        "example": "考中",
+        "meaning": "被錄取、達到目標"
+      },
+      {
+        "pinyin": "zhōng",
+        "zhuyin": "ㄓㄨㄥ",
+        "example": "高中",
+        "meaning": "用在高中、中間等詞"
+      }
+    ],
+    "處": [
+      {
+        "pinyin": "chù",
+        "zhuyin": "ㄔㄨˋ",
+        "example": "教務處",
+        "meaning": "機構或地方"
+      },
+      {
+        "pinyin": "chǔ",
+        "zhuyin": "ㄔㄨˇ",
+        "example": "處理",
+        "meaning": "辦理事情"
+      }
+    ],
+    "數": [
+      {
+        "pinyin": "shǔ",
+        "zhuyin": "ㄕㄨˇ",
+        "example": "數一數",
+        "meaning": "點算"
+      },
+      {
+        "pinyin": "shù",
+        "zhuyin": "ㄕㄨˋ",
+        "example": "人數",
+        "meaning": "數量"
+      }
+    ],
+    "應": [
+      {
+        "pinyin": "yìng",
+        "zhuyin": "ㄧㄥˋ",
+        "example": "答應",
+        "meaning": "同意、回應"
+      },
+      {
+        "pinyin": "yīng",
+        "zhuyin": "ㄧㄥ",
+        "example": "應該",
+        "meaning": "理當如此"
+      }
+    ],
+    "掃": [
+      {
+        "pinyin": "sào",
+        "zhuyin": "ㄙㄠˋ",
+        "example": "掃把",
+        "meaning": "清掃用的器具"
+      },
+      {
+        "pinyin": "sǎo",
+        "zhuyin": "ㄙㄠˇ",
+        "example": "掃一掃",
+        "meaning": "清掃的動作"
+      }
+    ]
+  },
+  "challenges": [
+    [
+      "你",
+      "要",
+      "是",
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      "幹",
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      "，",
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      "；"
+    ],
+    [
+      "你",
+      "要",
+      "是",
+      "不",
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      "幹",
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      "不",
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      "，",
+      "一",
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      "不",
+      {
+        "char": "行",
+        "answer": "xíng"
+      },
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      {
+        "char": "行",
+        "answer": "háng"
+      },
+      "不",
+      {
+        "char": "行",
+        "answer": "xíng"
+      }
+    ]
+  ],
+  "source": {
+    "filename": "破音字活動單.docx",
+    "sha256": "05e8dfce9d9b2b238663fc61483fad956cea893cb1559367bf23d979af72718d"
+  },
+  "notes": [
+    "依原始活動單保留30道題目與行字繞口令。",
+    "只列本課用到的常見讀音，不代表每個字的全部讀法。",
+    "原稿繞口令中未標調的 hang，以 háng 標示行業義。"
+  ]
+}
