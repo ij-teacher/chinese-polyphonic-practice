@@ -233,7 +233,7 @@
         "，請您等一",
         {
           "char": "會",
-          "answer": "huì"
+          "answer": "huǐ"
         },
         "兒。"
       ]
@@ -673,14 +673,19 @@
     ],
     "會": [
       {
+        "pinyin": "huì",
+        "example": "開會",
+        "meaning": "聚會、會議"
+      },
+      {
+        "pinyin": "huǐ",
+        "example": "一會兒",
+        "meaning": "片刻、短時間"
+      },
+      {
         "pinyin": "kuài",
         "example": "會計",
         "meaning": "財務記錄工作"
-      },
-      {
-        "pinyin": "huì",
-        "example": "開會、一會兒",
-        "meaning": "會議或片刻"
       }
     ],
     "幾": [
